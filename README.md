@@ -1,4 +1,14 @@
-## Hi there 👋
+# About me
+
+## Philosophy
+
+**行动中观察，观察时思考，思考后行动**
+
+*Act, then observe; observe, then reflect; reflect, then act.*
+
+## Coding
+**Clean and simple.**
+
 
 <!--
 **barkingx/barkingx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
