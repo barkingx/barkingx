@@ -2,25 +2,9 @@
 
 ## Philosophy
 
-**行动中观察，观察时思考，思考后行动**
+**行动中观察，观察时思考，思考后行动。**
 
-*Act, then observe; observe, then reflect; reflect, then act.*
+*Observe in action, reflect on observation, act upon reflection..*
 
 ## Coding
 **Clean and simple.**
-
-
-<!--
-**barkingx/barkingx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
